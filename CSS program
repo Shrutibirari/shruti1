@@ -1,0 +1,31 @@
+﻿<html>  
+  <head><title>introduction</title></head>
+<style>
+h1<font-style:bold;color:blue; background color:yellow>
+#p1<font-style:italic; backgroundcolor:pink>
+#p2<font-style:oblique; backgroundcolor:purple>
+.p3<font-style:normal; backgroundcolor:green>
+</style>
+<body>
+<marque>this is my first CSS programm</marque>
+<center><h1>my profile</h>
+<p id="p1">Name:shruti girish birari</p>
+<p id="p2">date of birth:20-01-1998</p>
+<p class="p3">address:nashik</p>
+<p id="p2">college:gokhale education society,R.H sapat college of engineering<p>
+<p id="p1">class:second year computer engineering</p>
+<tr>
+<th class="p3">name of institute  passing year  percentage</th>
+<td>L.S.B vaje vidyalaya,sinnar  2013-14  86%</td></tr
+<tr>
+<td>Government polytechnic,ahmednagar  2017  83%</td></tr>
+<tr>
+<td>R.H.sapat college of engineering</td></tr>
+<p id="p2">hobbies:dancing,singing,learning new things</p>
+<p id="p1">Intrest:reading books,spend time with family</p>
+<p class="p3">skills:communication,technical skills,problem solving ability</p></center>
+<marque>thank you !!!!</marque>
+
+
+</body>
+</html>
